@@ -4,6 +4,9 @@
     <p>
     An Apache 2.0 NLP research library, built on PyTorch, for developing state-of-the-art deep learning models on a wide variety of linguistic tasks.
     </p>
+    <p>
+    Edited for better utf-8 support
+    </p>
     <hr/>
 </div>
 <p align="center">
